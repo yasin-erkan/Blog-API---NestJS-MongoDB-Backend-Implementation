@@ -62,7 +62,7 @@ npm install
 
 2. **Set Environment Variables**
 ```env
-MONGODB_URI=mongodb://localhost:27017/blog_app
+MONGODB_URI=mongodb://youradress/blog_app
 JWT_SECRET=your_secret
 JWT_REFRESH_SECRET=your_refresh_secret
 ```
@@ -149,6 +149,7 @@ npm run test:cov
 ## 📚 Documentation
 
 Full API documentation is available in the Postman collection included in the repository.
+You can reach out Fullstack version from this link => (https://github.com/yasin-erkan/FutureTech-Blog-Platform)
 
 ## 📜 License
 
